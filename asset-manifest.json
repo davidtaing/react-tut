@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/davidtaing/react-tut/static/css/main.55d72bbf.chunk.css",
+    "main.js": "/davidtaing/react-tut/static/js/main.2ab715a1.chunk.js",
+    "main.js.map": "/davidtaing/react-tut/static/js/main.2ab715a1.chunk.js.map",
+    "runtime-main.js": "/davidtaing/react-tut/static/js/runtime-main.10a1d500.js",
+    "runtime-main.js.map": "/davidtaing/react-tut/static/js/runtime-main.10a1d500.js.map",
+    "static/js/2.64aa8813.chunk.js": "/davidtaing/react-tut/static/js/2.64aa8813.chunk.js",
+    "static/js/2.64aa8813.chunk.js.map": "/davidtaing/react-tut/static/js/2.64aa8813.chunk.js.map",
+    "index.html": "/davidtaing/react-tut/index.html",
+    "precache-manifest.ae31c67377712b4bd9afa271b5c61ada.js": "/davidtaing/react-tut/precache-manifest.ae31c67377712b4bd9afa271b5c61ada.js",
+    "service-worker.js": "/davidtaing/react-tut/service-worker.js",
+    "static/css/main.55d72bbf.chunk.css.map": "/davidtaing/react-tut/static/css/main.55d72bbf.chunk.css.map",
+    "static/js/2.64aa8813.chunk.js.LICENSE": "/davidtaing/react-tut/static/js/2.64aa8813.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10a1d500.js",
+    "static/js/2.64aa8813.chunk.js",
+    "static/css/main.55d72bbf.chunk.css",
+    "static/js/main.2ab715a1.chunk.js"
+  ]
+}
