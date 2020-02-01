@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react-tut/static/css/main.55d72bbf.chunk.css",
-    "main.js": "/react-tut/static/js/main.2ab715a1.chunk.js",
-    "main.js.map": "/react-tut/static/js/main.2ab715a1.chunk.js.map",
+    "main.js": "/react-tut/static/js/main.bbc0908c.chunk.js",
+    "main.js.map": "/react-tut/static/js/main.bbc0908c.chunk.js.map",
     "runtime-main.js": "/react-tut/static/js/runtime-main.b47834ba.js",
     "runtime-main.js.map": "/react-tut/static/js/runtime-main.b47834ba.js.map",
     "static/js/2.64aa8813.chunk.js": "/react-tut/static/js/2.64aa8813.chunk.js",
     "static/js/2.64aa8813.chunk.js.map": "/react-tut/static/js/2.64aa8813.chunk.js.map",
     "index.html": "/react-tut/index.html",
-    "precache-manifest.47758477c1a884cd57d2c889d3b4b837.js": "/react-tut/precache-manifest.47758477c1a884cd57d2c889d3b4b837.js",
+    "precache-manifest.711ad8f81b0fa8e5e1185cebae14553c.js": "/react-tut/precache-manifest.711ad8f81b0fa8e5e1185cebae14553c.js",
     "service-worker.js": "/react-tut/service-worker.js",
     "static/css/main.55d72bbf.chunk.css.map": "/react-tut/static/css/main.55d72bbf.chunk.css.map",
     "static/js/2.64aa8813.chunk.js.LICENSE": "/react-tut/static/js/2.64aa8813.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.b47834ba.js",
     "static/js/2.64aa8813.chunk.js",
     "static/css/main.55d72bbf.chunk.css",
-    "static/js/main.2ab715a1.chunk.js"
+    "static/js/main.bbc0908c.chunk.js"
   ]
 }
